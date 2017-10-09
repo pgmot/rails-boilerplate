@@ -40,6 +40,9 @@ group :development do
   # N+1 queries detector
   gem 'bullet'
 
+  # rspec
+  gem 'rspec-rails'
+
   # fixture
   gem 'factory_girl_rails'
 end
