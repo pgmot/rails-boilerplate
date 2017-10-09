@@ -45,6 +45,9 @@ group :development do
 
   # fixture
   gem 'factory_girl_rails'
+
+  # debug
+  gem 'pry-rails'
 end
 
 group :test do
