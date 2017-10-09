@@ -39,6 +39,9 @@ group :development do
 
   # N+1 queries detector
   gem 'bullet'
+
+  # fixture
+  gem 'factory_girl_rails'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
