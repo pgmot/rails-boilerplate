@@ -32,6 +32,7 @@ gem 'bootsnap', require: false
 
 # react_on_rails
 gem 'react_on_rails'
+gem 'mini_racer', platforms: :ruby
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
